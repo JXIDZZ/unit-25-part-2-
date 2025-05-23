@@ -1,0 +1,20 @@
+C:\Users\700815!\OneDrive\unit 25 part 1\unit 25 part 1\bin\Debug\net8.0-windows\unit 25 part 1.exe
+C:\Users\700815!\OneDrive\unit 25 part 1\unit 25 part 1\bin\Debug\net8.0-windows\unit 25 part 1.deps.json
+C:\Users\700815!\OneDrive\unit 25 part 1\unit 25 part 1\bin\Debug\net8.0-windows\unit 25 part 1.runtimeconfig.json
+C:\Users\700815!\OneDrive\unit 25 part 1\unit 25 part 1\bin\Debug\net8.0-windows\unit 25 part 1.dll
+C:\Users\700815!\OneDrive\unit 25 part 1\unit 25 part 1\bin\Debug\net8.0-windows\unit 25 part 1.pdb
+C:\Users\700815!\OneDrive\unit 25 part 1\unit 25 part 1\obj\Debug\net8.0-windows\unit_25_part_1.Form1.resources
+C:\Users\700815!\OneDrive\unit 25 part 1\unit 25 part 1\obj\Debug\net8.0-windows\unit_25_part_1.Form2.resources
+C:\Users\700815!\OneDrive\unit 25 part 1\unit 25 part 1\obj\Debug\net8.0-windows\unit_25_part_1.Form3.resources
+C:\Users\700815!\OneDrive\unit 25 part 1\unit 25 part 1\obj\Debug\net8.0-windows\unit_25_part_1.Form4.resources
+C:\Users\700815!\OneDrive\unit 25 part 1\unit 25 part 1\obj\Debug\net8.0-windows\unit_25_part_1.Form5.resources
+C:\Users\700815!\OneDrive\unit 25 part 1\unit 25 part 1\obj\Debug\net8.0-windows\unit 25 part 1.vbproj.GenerateResource.cache
+C:\Users\700815!\OneDrive\unit 25 part 1\unit 25 part 1\obj\Debug\net8.0-windows\unit 25 part 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\700815!\OneDrive\unit 25 part 1\unit 25 part 1\obj\Debug\net8.0-windows\unit 25 part 1.AssemblyInfoInputs.cache
+C:\Users\700815!\OneDrive\unit 25 part 1\unit 25 part 1\obj\Debug\net8.0-windows\unit 25 part 1.AssemblyInfo.vb
+C:\Users\700815!\OneDrive\unit 25 part 1\unit 25 part 1\obj\Debug\net8.0-windows\unit 25 part 1.vbproj.CoreCompileInputs.cache
+C:\Users\700815!\OneDrive\unit 25 part 1\unit 25 part 1\obj\Debug\net8.0-windows\unit 25 part 1.dll
+C:\Users\700815!\OneDrive\unit 25 part 1\unit 25 part 1\obj\Debug\net8.0-windows\refint\unit 25 part 1.dll
+C:\Users\700815!\OneDrive\unit 25 part 1\unit 25 part 1\obj\Debug\net8.0-windows\unit 25 part 1.pdb
+C:\Users\700815!\OneDrive\unit 25 part 1\unit 25 part 1\obj\Debug\net8.0-windows\unit 25 part 1.genruntimeconfig.cache
+C:\Users\700815!\OneDrive\unit 25 part 1\unit 25 part 1\obj\Debug\net8.0-windows\ref\unit 25 part 1.dll
